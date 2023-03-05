@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dorzzz
-- 👀 I’m interested in learning java for now.
-- 🌱 I’m currently learning Computer Science 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in making games .
+- 🌱 I’m currently A Computer Science student 
 - 📫 How to reach me --- email : doradiv12@gmail.com
 
 <!---
