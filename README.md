@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dorzzz
+- 👋 Hi, I’m @dor
 - 👀 I’m interested in making games .
 - 🌱 I’m currently A Computer Science student 
 - 📫 How to reach me --- email : doradiv12@gmail.com
