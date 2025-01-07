@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dor
-- 👀 I’m interested in making games .
+- 👀 I’m interested in making games , backend development , 3D graphics , 
 - 🌱 I’m currently A 4th year Computer Science student 
 - 📫 How to reach me --- email : doradiv12@gmail.com
 
