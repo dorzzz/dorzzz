@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dor
 - 👀 I’m interested in making games .
-- 🌱 I’m currently A 3rd year Computer Science student 
+- 🌱 I’m currently A 4th year Computer Science student 
 - 📫 How to reach me --- email : doradiv12@gmail.com
 
 <!---
