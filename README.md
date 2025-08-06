@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dor
 - 👀 I’m interested in making games , backend development , 3D graphics , 
-- 🌱 I’m currently A 4th year Computer Science student 
+- 🌱 Fresh Computer Science graduate with a strong foundation in software development and systems design
 - 📫 How to reach me --- email : doradiv12@gmail.com
 
 <!---
