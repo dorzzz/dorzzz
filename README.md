@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dor
 - 👀 I’m interested in making games , backend development , 3D graphics , 
-- 🌱 Fresh Computer Science graduate with a strong foundation in software development and systems design
+- 🌱 Fresh Computer Science graduate with a strong foundation in software development
 - 📫 How to reach me --- email : doradiv12@gmail.com
 
 Small Unity projects, testing 3D modeles, Characters voice acting and 3D movement:
