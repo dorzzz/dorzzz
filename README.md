@@ -8,6 +8,6 @@ One piece I'm proud of: tracing a ~19x throughput drop in our Elasticsearch plug
 
 I like understanding how systems behave in production, not just getting them to work. Lately that means Go architecture patterns, Java concurrency, and getting comfortable with Kubernetes and GitOps.
 
-**Tech:** Go, Java, Elasticsearch, MongoDB, NATS, RabbitMQ · familiar with Kubernetes, Azure, GitLab CI, ArgoCD
+**Tech:** Go, Java, MongoDB, NATS, RabbitMQ · familiar with Kubernetes, Azure, GitLab CI, ArgoCD, Elasticsearch
 
 [Linkedin](https://www.linkedin.com/in/dor-adiv/?isSelfProfile=true) · doradiv12@gmail.com
