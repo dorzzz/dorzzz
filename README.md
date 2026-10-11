@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @dor
-- 👀 I’m interested in making games , backend development , 3D graphics , 
-- 🌱 Fresh Computer Science graduate with a strong foundation in software development
-- 📫 How to reach me --- email : doradiv12@gmail.com
+## Dor Adiv
 
-Small Unity projects, testing 3D modeles, Characters voice acting and 3D movement:
-- https://youtu.be/-VUMq0dk8tc
+Backend engineer working on payment compliance and AML name-screening systems, mostly in Go and Java.
 
-- https://youtu.be/qMVpHPmjT-E
+Over the past year I've worked on a multi-provider payment ingress service handling REST, SOAP and ISO 20022 flows, and on the name-matching engine behind sanctions screening: phonetic encoding, non-Latin name support, and similarity scoring.
 
+One piece I'm proud of: tracing a ~19x throughput drop in our Elasticsearch plugin to a query-shape bug amplified by fallback logic, and shipping the fix.
 
-<!---
-dorzzz/dorzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like understanding how systems behave in production, not just getting them to work. Lately that means Go architecture patterns, Java concurrency, and getting comfortable with Kubernetes and GitOps.
+
+**Tech:** Go, Java, Elasticsearch, MongoDB, NATS, RabbitMQ · familiar with Kubernetes, Azure, GitLab CI, ArgoCD
+
+[Linkedin](https://www.linkedin.com/in/dor-adiv/?isSelfProfile=true) · doradiv12@gmail.com
